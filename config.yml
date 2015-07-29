@@ -25,7 +25,7 @@ storage:
         accesskey: AWS_KEY
         secretkey: AWS_SECRET
         region: AWS_REGION
-        bucket: coco-docker-registry
+        bucket: S3_BUCKET 
         encrypt: false
         secure: true
         v4auth: true
